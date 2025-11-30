@@ -19,31 +19,20 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        After graduating with a degree in Biochemistry, I discovered my passion for programming and
+        transitioned into frontend development. I embarked on a self-taught journey, mastering modern web 
+        technologies through hands-on projects and continuous learning. What excites me most about
+        programming is the creative problem-solving process and the satisfaction of building solutions
+        that make a real impact.
+        My core stack is React, Next.js, TypeScript, and Tailwind CSS, with experience in state
+        management using Zustand and Context API. I'm constantly expanding my skills and currently 
+        deepening my knowledge in software testing and quality assurance to build more robust applications.
+        <span className="italic">When I'm not coding</span>, I'm an avid table tennis player who enjoys the strategic gameplay and fast-paced competition.
+        I also thrive on engaging in <span className="font-medium">thought-provoking discussions</span> about technology, innovation, and personal growth. 
+        I believe in continuous learning both in and out of the tech world.
       </p>
 
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
-      </p>
+
     </motion.section>
   );
 }
