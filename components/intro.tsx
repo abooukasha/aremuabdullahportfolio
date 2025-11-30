@@ -65,8 +65,8 @@ export default function Intro() {
 <span className="font-bold">Hello, I'm Abdullah Aremu.</span> A{" "}
 <span className="font-bold">Frontend Developer</span> with{" "}
 <span className="font-bold">2+ years</span> of experience creating{" "}
-<span className="font-bold">scalable, responsive web applications</span> 
-with React, TypeScript, Next.js and Tailwind CSS. Dedicated to 
+<span className="font-bold">scalable, responsive web applications </span> 
+ with React, TypeScript, Next.js and Tailwind CSS. Dedicated to 
 <span className="font-bold"> clean code</span> and outstanding user experiences.
       </motion.h1>
 
