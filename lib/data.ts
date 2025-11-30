@@ -67,6 +67,7 @@ export const projectsData = [
     "Contributed to a comprehensive traceability application that tracks agro-products from farms to end-users.",
   tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Zustand", "React Query"],
   imageUrl: traceadminImg,
+  imageHref:"https://ceelah.com/",
   },
    {
   title: "Trace Admin Dashboard",
@@ -74,6 +75,7 @@ export const projectsData = [
     "Created an administrative dashboard for managing traceability tracking, client relationships amongst others",
   tags: ["React", "TypeScript", "Tailwind CSS", "React Query", "Axios"],
   imageUrl: traceImg,
+  imageHref:"https://ceelah.com/",
   },
   {
   title: "Cocoa Inventory Platform",
@@ -81,6 +83,7 @@ export const projectsData = [
     "Built an enterprise inventory management system for cocoa company operations.",
   tags: ["Next.js", "TypeScript", "Tailwind CSS", "Context API", "Axios"],
   imageUrl: inventoryImg,
+  imageHref:"https://starlinkglobalng.com/"
   },
  
 ] as const;
