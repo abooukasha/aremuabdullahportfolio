@@ -58,6 +58,15 @@ export const experiencesData = [
   icon: React.createElement(FaReact),
   date: "2023 - present",
   },
+  {
+  title: "Quality Assurance Tester (Grey-Box)",
+  location: "Remote",
+  description:
+    "Quality Assurance Tester working on an enterprise healthcare EMR system. Designs and executes test scenarios and test cases, performs functional and regression testing, and applies grey-box testing techniques using frontend knowledge to validate application logic, APIs, and role-based workflows.",
+  icon: React.createElement(FaReact),
+  date: "2025 - Present",
+}
+,
 ] as const;
 
 export const projectsData = [
