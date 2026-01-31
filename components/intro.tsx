@@ -67,7 +67,9 @@ export default function Intro() {
 <span className="font-bold">2+ years</span> of experience creating{" "}
 <span className="font-bold">scalable, responsive web applications </span> 
  with React, TypeScript, Next.js and Tailwind CSS. Dedicated to 
-<span className="font-bold"> clean code</span> and outstanding user experiences.
+<span className="font-bold"> clean code</span> and outstanding user experiences. Experienced in 
+grey box QA Software testing.
+
       </motion.h1>
 
       <motion.div
@@ -86,7 +88,7 @@ export default function Intro() {
             setTimeOfLastClick(Date.now());
           }}
         >
-          Contact me here{" "}
+          Contact me here
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
@@ -95,9 +97,10 @@ export default function Intro() {
           href="/CV.pdf"
           download
         >
-          Download CV{" "}
+          Download CV
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
+
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
